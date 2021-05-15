@@ -1,5 +1,5 @@
 
-// Unspalsh API
+// Unsplash API
 
 const count = 10;
 const apiKey = 'tV04UgOfs-dy1B6_Drt6E9rwNKWqtDOgbB3eGRF2nYg';
