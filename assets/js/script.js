@@ -1,4 +1,3 @@
-
 // Unsplash API
 
 const count = 10;
