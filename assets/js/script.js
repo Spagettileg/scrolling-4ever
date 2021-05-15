@@ -19,6 +19,7 @@ function setAttributes(element, attributes) {
 }
 
 // Create Elements For Links & Photos, Add to DOM
+// Note - item.setAttribute DOM method has been commented out in favour of the helper function - see above
 
 function displayPhotos() {
     // Run function for each object in photosArray
