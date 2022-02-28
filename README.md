@@ -1,14 +1,14 @@
-         ___        ______     ____ _                 _  ___  
-        / \ \      / / ___|   / ___| | ___  _   _  __| |/ _ \ 
-       / _ \ \ /\ / /\___ \  | |   | |/ _ \| | | |/ _` | (_) |
-      / ___ \ V  V /  ___) | | |___| | (_) | |_| | (_| |\__, |
-     /_/   \_\_/\_/  |____/   \____|_|\___/ \__,_|\__,_|  /_/ 
- ----------------------------------------------------------------- 
+# Scrolling 4ever | Infinite scroll 
 
 
-Hi there! Welcome to AWS Cloud9!
 
-To get started, create some files, play with the terminal,
-or visit https://docs.aws.amazon.com/console/cloud9/ for our documentation.
+## Demo
+Link to the [live](https://spagettileg.github.io/scrolling-4ever/) website hosted in GitHub Pages 
 
-Happy coding!
+Link to [GitHub](https://github.com/Spagettileg/scrolling-4ever) Repo
+
+***
+
+<div align="center">
+
+</div>
